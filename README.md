@@ -1,8 +1,10 @@
-# Police_Violence
+# Data Driven Policy: Police Violence In The Us
+# Dataset: Available on Kaggle
 Hey All, This was a team project during the summer. Do enjoy our Analysis!
 
 
-EXECUTIVE SUMMARY
+
+# EXECUTIVE SUMMARY
 
 This data driven policy brief analyses police violence in the US from 2013-2021, considers resulting implications and provides precise recommendations about which policies need to be implemented to decrease police violence. The data analysis revealed that police violence is most predominant in California, Texas, and Florida, with individuals aged between 30-50 being targeted the most. Besides, the data demonstrated that police violence follows racial profiling as Hispanics, Whites and Blacks are most often affected. Resulting implications are therefore social injustice, loss of trust in public institutions, psychological and physical harm, and a threat to public safety. 
 
@@ -10,23 +12,23 @@ Governments are urged to implement four major recommendations, namely an anti-di
 officers to wear body cameras. 
 
 
-Introduction
+# Introduction
 
 In May 2020, public policy on police violence gained traction not only in the US but also on a global scale. This was when George Floyd – 46-year-old black US citizen – was brutally killed by police officers during a police intervention in Minneapolis (Hill et al., 2020).
 The murder of Mr. Floyd triggered protests around the globe and since then, police violence related issues became even more recurrent topics in the news and public discussions. Is police violence targeting a specific demographic, and where in the US does it occur most frequently?
 
-How can governments intervene and change public policy so that police violence decreases?
+# How can governments intervene and change public policy so that police violence decreases?
 
 
 This policy brief reviews a police violence database in the US from 2013 - 2021 and brings insights related to location, gender, age, race, and geography of over 9000 police violence cases. First, a research overview will be provided, showcasing the history of police
 violence and current public policies. Next, the data will be analyzed by employing sophisticated data visualization methods, empowering readers to comprehend and engage with the findings effectively. Lastly, implications and recommendations will be provided, contributing to informed decision-making and the pursuit of evidence-based policy interventions.
 
 
-Research Overview
+# Research Overview
 
 Police violence refers to the unjustified and excessive use of force by law enforcement, which can result in severe physical and psychological harm and even fatalities. It encompasses actions that are unreasonable and go beyond what is necessary in each situation. Unfortunately, police violence is often characterized by discriminatory practices that unfairly target individuals based on their race, ethnicity, gender, or religion.
 
-Police Violence Then and Now
+# Police Violence Then and Now
 
 Throughout history, police violence has been a contentious issue. In the 1830s and 1840s, authorities focused on maintaining civil order, monitoring freed slaves, and appeasing the interests of elites (National Black Lawyers, 2021). While the public supported controls on
 the use of force, it often served the political desires of those in power. Instances of police violence, particularly against black Americans, have been prevalent throughout history. Martin Luther King, Jr. highlighted this issue in the 1960s, and advancements in technology and social media have made it more visible (National Black Lawyers, 2021).
@@ -34,18 +36,18 @@ the use of force, it often served the political desires of those in power. Insta
 Examples of police violence include the Chicago Police Department's killings in the late 19th and early 20th centuries, the racial profiling and resistance to civilian oversight by the Detroit Police Department during the civil rights movement, and the unlawful actions of the STRESS operation in Detroit in 1973 (National Black Lawyers, 2021). The most significant recent case is the killing of George Floyd in Minneapolis in 2020, which ignited global protests and calls for police reform (National Black Lawyers, 2021). These historical and contemporary instances demonstrate the ongoing problem of police violence in America and an urgent need
 to address these issues.
 
-Research Approach
+## Research Approach
 
 In this study, a dataset on police violence was thoroughly examined and sourced from Kaggle. The dataset spanned from 2013 to 2021. Before conducting the analysis, the data was cleaned, which included the elimination of blanks as well as removing data points that included above 10% unknown variables. A meticulous analysis was then conducted to identify patterns, trends, and factors associated with police violence incidents throughout the period in the US.
 
-Research Results
+## Research Results
 
 The results of the research demonstrate clear patterns and trends when analysing cases of police violence across different states. Some states had a higher concentration of reported incidents such as California, Texas, and Florida, which made them significant hotspots
 compared to others. These findings shed light on the differences in regional police violence. Moreover, the study examined how these incidents affected different demographics, revealing interesting and uncommon trends, such as age group 30-50 years old as well as Hispanics and Whites being the races victimized the most by police violence.
 
 Overall, the research findings offered a comprehensive understanding of police violence incidents across states. The identification of prominent regions and the exploration of demographic dynamics surrounding these incidents provide important information for discussions and initiatives on public policies aimed at addressing and mitigating police violence.
 
-Current Polices on Police Violence and Misconduct
+## Current Polices on Police Violence and Misconduct
 
 The Fourth Amendment protects against unwarranted searches and seizures. Evidence obtained through illegal searches can be excluded from a case with the help of a criminal defence attorney (Arndt, 2021). 
 
@@ -56,7 +58,7 @@ The Civil Rights Act of 1964 and the OJP Program Statute make it illegal for pol
 Laws like the ADA and Rehabilitation Act protect people with disabilities from discrimination. They can seek compensation through the DOJ and file lawsuits if they experience discrimination (Arndt, 2021).
 
 
-Analysis of Research Findings
+## Analysis of Research Findings
 
 This section analyses data from over 9000 incidences of police violence from 2013- 2021 in the US. Maps and charts have been created to ease understanding of the analysis through visualization. 
 
@@ -101,12 +103,12 @@ The difference between age group 19–39- and 31–50-year-olds may be attribute
 
  
 
- Implications and Recommendations 
+# Implications and Recommendations 
 
 Implications of Police Violence in the US
 If public policy on police violence does not change drastically within the near future, there will be several implications, which will negatively impact society at large, but also law enforcement and the government. 
 
-Implications of Police Violence
+## Implications of Police Violence
 
 1.	Social Injustice
 
@@ -125,11 +127,11 @@ Individuals witnessing police violence will likely develop a sense of scepticism
 This implication relates to the victims of police violence and their relatives. Being hurt without reason can cause in severe injuries, depression or even death. Fear, trauma and suicide are only a few of the symptoms and actions taken by victims or their relatives because of police violence. Sometimes, as it was the case with the George Floyd murder, these harms can mobilize the masses and fuel social movements and activism, helping to end police violence. 
 Specific recommendations on how governments can contribute to end police violence via public policy making will be discussed next. 
 
-Public Policy Recommendations 
+# Public Policy Recommendations 
 
 Given the data analysis, these public policy recommendations on police violence are precise, relevant, credible, and feasible in nature as they are tailored to the most heavily impacted demographics (Hispanics, Whites and Blacks aged 31-50) and states (California, Texas and Florida). The US government is therefore advised to implement the following recommendations in these locations first.
 
-Recommendations to Decrease Police Violence in the US
+## Recommendations to Decrease Police Violence in the US
 
 1.	Implement a Anti-Discrimination Policy
 
@@ -149,12 +151,12 @@ This policy will make the use of body-worn camaras mandatory for all police offi
 
 
 
-Conclusion
+# Conclusion
 
 In conclusion, it becomes apparent that policy violence is a serious issue in the US which has caused activism and social movements to peak after George Floyd´s murder. Nevertheless, public policy making by the government has not yet resulted in significant improvements which can cause issues with regards to social justice, public safety, trust in law enforcement and the victims well-being. Given the targeting of police violence of minorities aged 31-50 resulting from the data analysis, the government is advised to implement four public policies in California, Texas and Florida, which are the states with the highest number of victims. These four policies include an anti-discrimination policy, which strictly prohibits the racial profiling and violence; a policy on implicit bias training, which will help law enforcement to recognize, understand, and mitigate implicit bias; a policy on community collaboration, which will foster personal relationships and trust in law enforcement; and a policy on transparency, demanding police officers to wear body cameras. In implementing these policies, society, law enforcement and the government benefit as public safety, trust and collaboration are re-established via the elimination of racial profiling and police violence. 
  
 
-Reference
+## Reference
 
 https://www.nytimes.com/2020/05/31/us/george-floyd-investigation.html 
  
