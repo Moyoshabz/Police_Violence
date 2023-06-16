@@ -63,7 +63,7 @@ This section analyses data from over 9000 incidences of police violence from 201
 
 Mapping Police Violence Across US-States
 
-![iamge_1](./images/police_1.png)
+![iamge_2](./images/police_1.png)
 
 Figure 1: Police Violence by US State, 2013-2021
 
