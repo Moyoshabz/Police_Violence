@@ -1,5 +1,4 @@
 # Data Driven Policy: Police Violence In The Us
-# Dataset: Available on Kaggle
 Hey All, This was a team project during the summer. Do enjoy our Analysis!
 
 
